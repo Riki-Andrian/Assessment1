@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="nama_tugas">Nama Tugas</string>
+    <string name="due_time">Waktu</string>
+    <string name="desk_tugas">Deskripsi Tugas</string>
+    <string name="sipan">Simpan</string>
+    <string name="hello_blank_fragment">Tambah Tugas</string>
+    <string name="salah_input">Harap Isi Dengan Benar</string>
+</resources>
